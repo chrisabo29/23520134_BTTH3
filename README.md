@@ -1,2 +1,3 @@
-# 23520134_BTTH3
-Bài tập thực hành Buổi 3
+# Công nghệ Java
+### Bài tập thực hành buổi 3
+#### Sinh viên thực hiện: Phan Đức Chí Bảo - 23520134
